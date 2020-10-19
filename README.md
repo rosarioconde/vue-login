@@ -1,4 +1,4 @@
-# tareas
+# vue-login
 
 ## Project setup
 ```
@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies  
 ```
 npm run build
 ```
@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# vue-login
